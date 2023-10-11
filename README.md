@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <a href="https://demetriusvas.github.io"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a>, I'm Demetrius</h1>
 
-- 👨‍💻 All of my projects are available [aqui](https://demetriusvas.github.io)
+- 👨‍💻 All of my projects are available [here](https://demetriusvas.github.io)
 
 - 📫 How to reach me **demetriusvas@gmail.com**
 
