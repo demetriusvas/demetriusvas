@@ -43,4 +43,6 @@
 
 ---
 
-https://github-readme-stats.vercel.app/api?username=DemetriusVignati&theme=blue-green
+<a href="https://demetriusvas.github.io">
+<img src="https://github-readme-stats.vercel.app/api?username=demetriusvas&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="rakesh's github stats" width="48%" >
+</a>
