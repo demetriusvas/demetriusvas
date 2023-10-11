@@ -1,8 +1,18 @@
 [![demetriusvas.github.io](https://github.com/demetriusvas/demetriusvas/blob/main/assets/img/Banner%20-%20Demetrius%20Vignati%20-%204.png)](https://demetriusvas.github.io)
 
-### Hi there 👋
+<h1 align="center">Hi <a href="https://demetriusvas.github.io"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a>, I'm Demetrius</h1>
 
-- 👨‍💻 Todos os meus projetos estão disponíveis [aqui](https://demetriusvas.github.io)
+- 👨‍💻 All of my projects are available [aqui](https://demetriusvas.github.io)
+
+- 📫 How to reach me **demetriusvas@gmail.com**
+
+### 🤝 Connect with me:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://demetriusvas.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demetriusvignati)
+
+---
+
 
 <!--
 **demetriusvas/demetriusvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
