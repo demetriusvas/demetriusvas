@@ -42,7 +42,3 @@
 [![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://demetriusvas.github.io)
 
 ---
-
-<a href="https://demetriusvas.github.io">
-<img src="https://github-readme-stats.vercel.app/api?username=demetriusvas&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="rakesh's github stats" width="48%" >
-</a>
